@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Angello Farid
+Meu nome é **Angello Farid**
 
     Estou estudando na Alura
     Estou me desenvolvendo na linguagem JavaScript
